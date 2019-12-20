@@ -1,13 +1,13 @@
-package com.algebra.algebra;
+package com.intellisoft;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AlgebraApplication {
+public class IntellisoftApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AlgebraApplication.class, args);
+		SpringApplication.run(IntellisoftApplication.class, args);
 	}
 
 }
